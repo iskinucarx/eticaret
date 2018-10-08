@@ -26,7 +26,7 @@
 						<a href="product.htm"><img src="images\sample-1.jpg" alt="" class="img-responsive"></a>
 						<div class="pricetag blue"><div class="inner"><span>$199</span></div></div>
 					</div>
-					<span class="smalltitle"><a href="product.htm">Nikon Camera</a></span>
+					<span class="smalltitle"><a href="product.htm">CANON KAMERA</a></span>
 					<span class="smalldesc">Item no.: 1000</span>
 				</div>
 			</div>
